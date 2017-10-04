@@ -1,0 +1,10 @@
+{
+  "name": "khawatechnology/shp-dbf",
+  "description": "Load shp and dbf files and get wkt data",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "classmap": ["shpParser.php"]
+  }
+}
